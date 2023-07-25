@@ -1,0 +1,1 @@
+This script reads the contents of a file, such as file.txt and removes any duplicate content.
